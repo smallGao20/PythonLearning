@@ -1,2 +1,2 @@
 # PythonLearning
-Python的许西记录
+Python的学习记录
